@@ -1,0 +1,10 @@
+
+=
+java:S1604+"(Make this anonymous inner class a lambda(è«¹e
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥õè»ûÿÿÿÿ
+M
+java:S1854"8Remove this useless assignment to local variable "test".(ëª›$
+>
+java:S1481")Remove this unused "test" local variable.(ëª›$
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx

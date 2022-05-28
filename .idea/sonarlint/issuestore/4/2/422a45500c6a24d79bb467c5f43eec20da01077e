@@ -1,0 +1,6 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÑ³ôùÿÿÿÿ
+e
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8áÈ¥ĞŒ0
+G
+java:S1068"*Remove this unused "bouton" private field.(ùŞ8áÈ¥ĞŒ0

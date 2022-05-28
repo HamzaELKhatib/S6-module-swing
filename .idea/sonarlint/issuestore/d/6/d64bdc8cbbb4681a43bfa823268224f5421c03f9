@@ -1,0 +1,14 @@
+
+i
+java:S2095Q"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡ôµüÿÿÿÿ8Ã³‘ë0
+i
+java:S2095>"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡ôµüÿÿÿÿ8Å³‘ë0
+i
+java:S2095,"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡ôµüÿÿÿÿ8Ç³‘ë0
+V
+java:S1118":Add a private constructor to hide the implicit public one.(°Ò8Ğ³‘ë0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¶ˆï8é³‘ë0
+E
+java:S2115")Add password protection to this database.(È¼B8õ³‘ë0
+:
+java:S2695T"ResultSet indices start at 1.(ÑÒ†Ÿ8¤´‘ë0

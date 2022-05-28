@@ -1,0 +1,33 @@
+
+6
+s6.iml,2\f\2f4948fe5728dcc10b4bfb73861914281d90e4b3
+G
+src/exam2/Fenetre1.java,a\9\a9cabf646a39d634ef1157f423417c64ed577164
+G
+src/revision/Test2.java,0\d\0d860fc64ed3c052701aa7e5a4493f3e7dc1264a
+G
+src/exam2/Fenetre2.java,4\2\422a45500c6a24d79bb467c5f43eec20da01077e
+P
+ src/db/db_testing/Controle4.java,d\6\d64bdc8cbbb4681a43bfa823268224f5421c03f9
+J
+src/db/TestConnection.java,5\1\516c2bd83e92c4063af0b6d1c1fa60a073f61141
+I
+src/exam1/JTableTest.java,8\e\8eae6eb44fc3c06927d8a7b777ebfdefe29d0f56
+a
+1src/add_row_with_data_to_specific_line/Test1.java,c\2\c2c6aabb39e2b672c9ce1dc85d1c0a3b3ff5a555
+Q
+!src/personal/SecondaryWindow.java,8\7\87239da7ff4ac7f22f89e931868c6ae336178d13
+P
+ src/add_row_with_data/Test1.java,8\2\8258aafdb7f81fdc11c70539d27ba73184b6823e
+J
+src/revision/Revision.java,4\9\49210fbecfa68e97d686fda1e43a1c33a28f4124
+G
+src/revision/Test1.java,9\d\9d851b855a3111d8735392ed6839f4af3f788b3e
+c
+3src/change_colomn_values_in_selected_row/Test1.java,f\d\fd5c96a8a4dbe56546131c05b4de795379231171
+L
+src/personal/MainWindow.java,f\4\f48bdd39db6808e584d879cf3e5f4f7fc7597bf2
+`
+0src/show_selected_row_in_other_window/test2.java,d\a\da04a2c05a718378742e54b230dde4ab0e9cea00
+`
+0src/show_selected_row_in_other_window/test1.java,0\c\0c603ea78867d6c695bdc1436c3ae829d7fc1ff3

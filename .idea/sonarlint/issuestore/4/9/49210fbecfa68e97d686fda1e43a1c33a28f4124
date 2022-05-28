@@ -1,0 +1,11 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(¹ëÔâùÿÿÿÿ8¾Ï·ß†0
+^
+java:S1854
+"<Remove this useless assignment to local variable "revision".(ÔÍÍûÿÿÿÿ8›¡¼ß†0
+O
+java:S1481
+"-Remove this unused "revision" local variable.(ÔÍÍûÿÿÿÿ8œ¡¼ß†0
+e
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8ø§Éß†0

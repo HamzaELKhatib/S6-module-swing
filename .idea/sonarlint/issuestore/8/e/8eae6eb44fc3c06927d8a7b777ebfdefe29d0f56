@@ -1,0 +1,14 @@
+
+E
+java:S1604C"(Make this anonymous inner class a lambda(‚‡ôì8ÔÚ™æŒ0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»§×8šá˜æŒ0
+V
+java:S1854"9Remove this useless assignment to local variable "test1".(ùËÁÇ8éÚ™æŒ0
+G
+java:S1481"*Remove this unused "test1" local variable.(ùËÁÇ8ëÚ™æŒ0
+e
+java:S3252""IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8ùÚ™æŒ0
+H
+java:S1128"+Remove this unused import 'revision.Test1'.(êÏÁ´8ÄÅšæŒ0
+W
+java:S1128	":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8¥„šæŒ0

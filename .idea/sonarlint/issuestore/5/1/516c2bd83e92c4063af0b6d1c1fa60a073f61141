@@ -1,0 +1,20 @@
+
+V
+java:S22591"@A "NullPointerException" could be thrown; "cn" is nullable here.(Ú¹²ƒ
+[
+java:S2259>"@A "NullPointerException" could be thrown; "rs" is nullable here.(íôÚÇşÿÿÿÿ
+V
+java:S2259""@A "NullPointerException" could be thrown; "cn" is nullable here.(Ú¹²ƒ
+f
+java:S2259Y"DA "NullPointerException" could be thrown; "result" is nullable here.(õà¢´ùÿÿÿÿ8ÁĞÖã0
+]
+java:S20951"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ú¹²ƒ
+]
+java:S2095""GUse try-with-resources or close this "Statement" in a "finally" clause.(Ú¹²ƒ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+?
+java:S2115")Add password protection to this database.(’û´Ö
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¿‹ô
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÎÉ­ÿÿÿÿÿ8ÌĞÖã0
+]	java:S125a"<This block of commented-out lines of code should be removed.(¸ÒóÊúÿÿÿÿ8òøÕã0

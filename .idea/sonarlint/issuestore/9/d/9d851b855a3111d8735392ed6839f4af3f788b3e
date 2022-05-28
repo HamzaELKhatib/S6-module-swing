@@ -1,0 +1,14 @@
+
+>
+java:S1604="(Make this anonymous inner class a lambda(‚‡ôì
+O
+java:S1854"9Remove this useless assignment to local variable "test1".(øÌˆ¥
+@
+java:S1481"*Remove this unused "test1" local variable.(øÌˆ¥
+^
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx
+T
+java:S1854B"9Remove this useless assignment to local variable "ligne".(ÝÞ†½þÿÿÿÿ
+E
+java:S1481B"*Remove this unused "ligne" local variable.(ÝÞ†½þÿÿÿÿ
+]	java:S125H"<This block of commented-out lines of code should be removed.(üŽ¦éùÿÿÿÿ8”Ô·ëŒ0
